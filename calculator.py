@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+# coded by computer_loveer
+# instagram : computer_loveer
 class calculator:
     def __init__(self, a, b):
         self.a = a
